@@ -1,4 +1,4 @@
-// Sam Ensafi - 501015750
+
 package flightreservations;/*
  * A long haul flight is a flight that travels thousands of kilometers and typically has separate seating areas
  */
