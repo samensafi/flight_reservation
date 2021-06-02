@@ -1,4 +1,4 @@
-// Sam Ensafi - 501015750
+
 package flightreservations;
 
 public class Passenger {
